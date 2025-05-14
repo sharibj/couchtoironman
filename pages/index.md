@@ -17,4 +17,5 @@ I will document progress, or lack thereof, and share my learnings along the way.
 
 
 ## Blogs
-- [First 10K - 2025/05/14](?first10k)
+- [First 10K - 2025/05/11](?first10k)
+- [First (Proper) Interval Run - 2025/05/14](?intervalRun)
