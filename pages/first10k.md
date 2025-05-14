@@ -36,7 +36,7 @@ But the very next day, I fell off a mountain bike and got injured.
 I got a nasty road rash on my right hip, and a big area around it fell numb.
 Forget running, I couldn't even walk properly for a few days.
 
-![breakfast_run](../img/10kBreakfastrun.png)
+![breakfast_run](assets/images/10kBreakfastrun.png)
 
 I continued my vacation, and on the very last day (a week before the race day), I joined a breakfast run in Prague.
 It was a day before the Prague marathon. A fun-run sort of event with only 4kms. I was certain that I would finish the race; the only question was how soon.
@@ -78,7 +78,7 @@ I think my pace was somewhere between 8:00 to 8:30.
 I felt a little low around the 3km mark, but I kept going.
 My family was there to cheer for me, so that helped.
 
-![pace](../img/10kPace.png)
+![pace](assets/images/10kPace.png)
 
 My original plan was to speed up after 3, but I didn't dare. I decided to stick to the current pace till 5km.
 Around 4, I started feeling good. I didn't speed up, but I didn't have to stop running, and I wasn't feeling as tired as I recalled myself feeling on my very first 10k, 3 years ago.
@@ -89,7 +89,7 @@ Finally came the last km. I was tired, but I pushed myself to go faster. Once I 
 I had done it. A lot slower than I had originally planned, but I had done it nonetheless.
 I crossed the finish line and collected my medal.
 My time was 1:17:23.
-![time](../img/10kTime.png)
+![time](assets/images/10kTime.png)
 
 ## Post Race
 I neglected to do the cooldown stretches. I was too tired and too hungry.

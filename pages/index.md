@@ -16,4 +16,4 @@ I will document progress or lack thereof, and share my learnings along the way.
 - [ ] Ironman
 
 ## Blogs
-- [First 10K](?first10k) - 2025/05/14
+- [First 10K - 2025/05/14](?first10k)

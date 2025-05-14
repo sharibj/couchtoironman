@@ -9,7 +9,7 @@ const checkBox = require('./lib/checkBox');
 
 marked.setOptions({
     langPrefix: '',
-    highlight: function(code) {
+    highlight: function (code) {
         return highlight.highlightAuto(code).value;
     },
 });
@@ -20,30 +20,33 @@ const index = fs.readFileSync(INDEX, 'utf8');
 // scrape pages folder for markdown files
 const markdown = fs.readdirSync(PAGES);
 markdown.forEach(file => {
-    checkBox(`building ${file}...`);
+    const filePath = PAGES + file;
+    if (fs.statSync(filePath).isFile() && file.endsWith('.md')) {
+        checkBox(`building ${file}...`);
 
-    // Get markdown text
-    const markdownText = fs.readFileSync(PAGES + file, 'utf8');
+        // Get markdown text
+        const markdownText = fs.readFileSync(PAGES + file, 'utf8');
 
-    // Convert markdown to html
-    const content = marked(markdownText);
-    
-    // Replace index dev script with page content
-    let output = index.replace('<script type="module" src="./utils/dev.js"></script>', content);
+        // Convert markdown to html
+        const content = marked(markdownText);
 
-    // Replace title with content of first <h1> tag
-    const newTitle = output.match(/>(.*?)<\/h1>/)[1] || null;
-    if (newTitle) output = output.replace(/<title>(.*?)<\/title>/, `<title>${newTitle}</title>`);
+        // Replace index dev script with page content
+        let output = index.replace('<script type="module" src="./utils/dev.js"></script>', content);
 
-    // Replace 'docs/assets' links with 'assets'
-    output = output.replace(/docs\/assets/g, 'assets');
+        // Replace title with content of first <h1> tag
+        const newTitle = output.match(/>(.*?)<\/h1>/)[1] || null;
+        if (newTitle) output = output.replace(/<title>(.*?)<\/title>/, `<title>${newTitle}</title>`);
 
-    // Replace local '?' dev links with built '.html'
-    output = output.replace(/href="\?(.*?)"/g, 'href="$1.html"')
-    
-    // Output built html to build folder
-    const outputFile = file.replace('.md', '.html');
-    fs.writeFileSync(BUILD + outputFile, output);
+        // Replace 'docs/assets' links with 'assets'
+        output = output.replace(/docs\/assets/g, 'assets');
 
-    checkBox(`${outputFile} built`, true);
+        // Replace local '?' dev links with built '.html'
+        output = output.replace(/href="\?(.*?)"/g, 'href="$1.html"')
+
+        // Output built html to build folder
+        const outputFile = file.replace('.md', '.html');
+        fs.writeFileSync(BUILD + outputFile, output);
+
+        checkBox(`${outputFile} built`, true);
+    }
 });
