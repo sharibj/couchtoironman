@@ -1,7 +1,4 @@
-# Welcome to my site
+# Couch to Ironman
 
-### This is fancy
 
-This is written in markdown
-
-Check out [this markdown page](?test)
+[2025/05/14 - First 10K](?first10k)
