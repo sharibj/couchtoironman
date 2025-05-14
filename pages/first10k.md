@@ -52,7 +52,7 @@ It did little to help my confidence, though.
 By now, I was certain I would not be able to finish the 10k within 1 hour.
 I had serious doubts about completing it without walking or completing it at all.
 
-## Earlier on race day
+## Pre-Race
 I couldn't sleep well and was up by 4 am. The race was at 9:30.
 I had a protein shake for breakfast and left home around 8.
 I was nervous and lacked confidence.
