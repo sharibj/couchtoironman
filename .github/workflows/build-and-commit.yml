@@ -17,3 +17,6 @@ jobs:
     - run: rm -rf docs/assets/images/
     - run: cp -r pages/assets/images docs/assets/images/
     - uses: EndBug/add-and-commit@v9
+      with:
+        message: 'Auto-generated commit from workflow'
+        add: '.'
