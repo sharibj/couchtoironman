@@ -4,7 +4,7 @@ Call it ambition, delusion, or just a fever dream, but I have decided to go from
 
 This is my journey.
 
-I will document progress or lack thereof, and share my learnings along the way.
+I will document progress, or lack thereof, and share my learnings along the way.
 
 - [x] 5k (16/02/2025)
 - [x] 10k (11/05/2025)
@@ -14,6 +14,7 @@ I will document progress or lack thereof, and share my learnings along the way.
 - [ ] Marathon
 - [ ] Half Ironman
 - [ ] Ironman
+
 
 ## Blogs
 - [First 10K - 2025/05/14](?first10k)
