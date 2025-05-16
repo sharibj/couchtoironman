@@ -1,12 +1,13 @@
 # Couch to Ironman
 
-[what-is-this](#what-is-this)
+## Contents
+[Inspiration](#inspiration)
 
-[milestones](#milestones)
+[Milestones](#milestones)
 
-[blogs](#blogs)
+[Journal](#journal)
 
-## What is this?
+## Inspiration
 Call it ambition, delusion, or just a fever dream, but I have decided to go from Couch to Ironman.
 
 This is my journey.
@@ -30,6 +31,7 @@ I will document progress, or lack thereof, and share my learnings along the way.
     > Ironman includes 3.8 km swimming, 180 km cycling, and 42.2 km running
 
 
-## Blogs
+## Journal
+- [First GYM Membership - 2025/05/15](?3_gym)
 - [First (Proper) Interval Run - 2025/05/14](?2_intervalRun)
 - [First 10K - 2025/05/11](?1_first10k)
