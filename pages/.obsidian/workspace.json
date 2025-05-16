@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "intervalRun.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "intervalRun"
+              "title": "index"
             }
           }
         ]
@@ -170,6 +170,7 @@
   },
   "active": "e533482e4dbe7a66",
   "lastOpenFiles": [
+    "intervalRun.md",
     "index.md",
     "first10k.md"
   ]

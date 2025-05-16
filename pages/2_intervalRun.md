@@ -17,3 +17,5 @@ I did the easy run with an average 8:15 pace and the intervals with an average o
 Only in the end, I couldn't do the continuous slow run and had to walk the last 500m.
 
 I was spent.
+
+> P.S.: This run made me a local legend on Strava.Not sure what to do with this make-believe crown.
