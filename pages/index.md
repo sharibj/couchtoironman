@@ -1,5 +1,12 @@
 # Couch to Ironman
 
+[what-is-this](#what-is-this)
+
+[milestones](#milestones)
+
+[blogs](#blogs)
+
+## What is this?
 Call it ambition, delusion, or just a fever dream, but I have decided to go from Couch to Ironman.
 
 This is my journey.
