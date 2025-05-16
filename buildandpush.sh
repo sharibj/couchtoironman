@@ -2,6 +2,9 @@
 node utils/build.js || { echo "Build failed"; exit 1; }
 echo "Build succeeded"
 
+git pull || { echo "Git pull fai,led"; exit 1; }
+echo "Git pull succeeded"
+
 git add . && git commit -m "Autocommit" || { echo "Git commit failed"; exit 1; }
 echo "Git commit succeeded"
 
