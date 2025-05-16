@@ -1,0 +1,9 @@
+#!/bin/bash
+node utils/build.js || { echo "Build failed"; exit 1; }
+echo "Build succeeded"
+
+git add . && git commit -m "Autocommit" || { echo "Git commit failed"; exit 1; }
+echo "Git commit succeeded"
+
+git push || { echo "Push failed"; exit 1; }
+echo "Push succeeded"
