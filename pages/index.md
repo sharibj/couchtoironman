@@ -18,6 +18,7 @@ I will document progress, or lack thereof, and share my learnings along the way.
 - [x] 5k (16/02/2025)
 - [x] 10k (11/05/2025)
 - [ ] Sub 30min 5k
+- [ ] Learn to Swim
 - [ ] Sprint Triathlon
     > Sprint Triathlon includes 750 meters swimming, 20 km cycling, and 5 km running
 - [ ] Sub 60min 10k
