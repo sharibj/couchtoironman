@@ -33,6 +33,7 @@ I will document progress, or lack thereof, and share my learnings along the way.
 
 
 ## Journal
+- [First Treadmill Run - 2025/05/17](?4_treadmill)
 - [First GYM Membership - 2025/05/15](?3_gym)
 - [First (Proper) Interval Run - 2025/05/14](?2_intervalRun)
 - [First 10K - 2025/05/11](?1_first10k)
