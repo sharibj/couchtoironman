@@ -37,3 +37,4 @@ I will document progress, or lack thereof, and share my learnings along the way.
 - [First GYM Membership - 2025/05/15](?3_gym)
 - [First (Proper) Interval Run - 2025/05/14](?2_intervalRun)
 - [First 10K - 2025/05/11](?1_first10k)
+- [First Strava Club Run (Slowpokes) - 2025/05/19](?5_slowpokes)
