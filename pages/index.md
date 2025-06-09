@@ -39,3 +39,4 @@ I will document progress, or lack thereof, and share my learnings along the way.
 - [First 10K - 2025/05/11](?1_first10k)
 - [First Strava Club Run (Slowpokes) - 2025/05/19](?5_slowpokes)
 - [First update on sub-30 5K progress - 2025/05/25](?6_5kupdate)
+- [Race day update on sub-30 5K progress - 2025/06/04](?7_5kraceday)
