@@ -33,11 +33,11 @@ I will document progress, or lack thereof, and share my learnings along the way.
 
 
 ## Journal
+- [Fell off the wagon - 2025/06/29](?8_offthewagon)
+- [Race day update on sub-30 5K progress - 2025/06/04](?7_5kraceday)
+- [First update on sub-30 5K progress - 2025/05/25](?6_5kupdate)
+- [First Strava Club Run (Slowpokes) - 2025/05/19](?5_slowpokes)
 - [First Treadmill Run - 2025/05/17](?4_treadmill)
 - [First GYM Membership - 2025/05/15](?3_gym)
 - [First (Proper) Interval Run - 2025/05/14](?2_intervalRun)
 - [First 10K - 2025/05/11](?1_first10k)
-- [First Strava Club Run (Slowpokes) - 2025/05/19](?5_slowpokes)
-- [First update on sub-30 5K progress - 2025/05/25](?6_5kupdate)
-- [Race day update on sub-30 5K progress - 2025/06/04](?7_5kraceday)
-- [Fell off the wagon - 2025/06/29](?8_offthewagon)
