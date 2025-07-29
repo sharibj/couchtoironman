@@ -5,7 +5,7 @@ I use AI (Gemini) to create a running plan for me. It focuses primarily on build
 
 > After one of your easy runs, perform 4-6 strides by smoothly accelerating for 20-30 seconds to a fast but relaxed pace, focusing on good form, not all-out sprinting. Walk back to your starting point for a full minute of recovery after each repetition. This will safely improve your running efficiency and leg speed without the stress of a hard workout.
 
-| Week | Mid-Week Run 1 | Mid-Week Run 2 (include Strides) | Weekend Event |
+| Week | Run 1 | Run 2 | Weekend Event |
 | :--- | :--- | :--- | :--- |
 | **1** | 4 km (Easy) | 4 km (Easy) | **6 km Long Run** |
 | **2** | 4 km (Easy) | 5 km (Easy) | **8 km Long Run** |
