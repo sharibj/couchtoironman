@@ -33,6 +33,7 @@ I will document progress, or lack thereof, and share my learnings along the way.
 
 
 ## Journal
+- [Rest Continues - 2025/07/29](?9_restContinues)
 - [Fell off the wagon - 2025/06/29](?8_offthewagon)
 - [Race day update on sub-30 5K progress - 2025/06/04](?7_5kraceday)
 - [First update on sub-30 5K progress - 2025/05/25](?6_5kupdate)
