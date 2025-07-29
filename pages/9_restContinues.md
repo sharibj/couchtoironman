@@ -3,8 +3,10 @@
 
 Another month went by without much running.
 
-A friend visited me for 2 weeks so I was busy showing her around.
-2 weeks before that I did suffecient strength training at home but not much running.
+I did some runs on the first week and did suffecient strength training at home during the 2nd week.
+A friend stayed with me for the last 2 weeks of the month so I was busy showing her around and didn't work out at all.
+
+![Runs in July](assets/images/restcontinues.png)
 
 I need to find a rythm.
 With 2 more weeks of vacation coming up soon, it will be even more difficult to make time for running.
