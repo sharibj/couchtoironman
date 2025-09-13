@@ -1,6 +1,6 @@
 #!/bin/bash
-eval "$(ssh-agent -s)"
-ssh-add ~/.ssh/id_rsa || { echo "SSH add failed"; exit 1; }
+#eval "$(ssh-agent -s)"
+#ssh-add ~/.ssh/id_rsa || { echo "SSH add failed"; exit 1; }
 
 git pull || { echo "Git pull failed"; exit 1; }
 echo "Git pull succeeded"

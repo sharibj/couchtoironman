@@ -40,6 +40,7 @@ I will document progress, or lack thereof, and share my learnings along the way.
 
 
 ## Journal
+- [First Swimming Class - 2025/07/30](?11_swimmingClass)
 - [Half Marathon Running Plan - 2025/07/30](?10_hmRunningPlan)
 - [Rest Continues - 2025/07/29](?9_restContinues)
 - [Fell off the wagon - 2025/06/29](?8_offthewagon)

@@ -1,5 +1,5 @@
 # Half Marathon Running Plan
-> 30/07/26
+> 2025/07/30
 
 I use AI (Gemini) to create a running plan for me. It focuses primarily on building endurance and not speed.
 
