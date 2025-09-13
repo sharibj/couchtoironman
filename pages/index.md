@@ -17,7 +17,6 @@ This is my journey.
 I will document progress, or lack thereof, and share my learnings along the way.
 
 ## Upcoming Events
-- **10K 07/09/25** (Kreuzberger Viertelmarathon)
 - **10K 12/10/25** (Great 10K 2025)
 - **21K 18/10/25** (Sportscheck Half Marathon)
 
