@@ -11,7 +11,7 @@ I started very slow. Kept my heart rate in zone 1 and 2.
 Even I was surprised because usually, even if I do easy runs, my heart rate goes up to zone 3.
 I guess those runs weren't slow enough.
 This time I was literally plodding.
-![14k Route](assets/14k.jpeg)
+![14k Route](assets/images/14k.jpeg)
 It took me 2 and a half hours to finish the run.
 So this was officially my longest run ever. Both in distance and time.
 I'm quite happy I achieved my goal of not walking.
