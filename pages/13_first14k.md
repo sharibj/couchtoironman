@@ -1,5 +1,5 @@
 # First 14K Run of my Life
-# > 2025/09/24
+> 2025/09/24
 
 I couldn't stick to my running plan.
 I didn't consistently do my 3 runs per week.
