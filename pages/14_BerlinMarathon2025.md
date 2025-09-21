@@ -7,7 +7,7 @@ This event is very dear to me because this is where I got my inspiration to run.
 The runners go right past my house.
 I still remember the first time I saw them.
 The energy and the vibe was infectious.
-I was even more impressed with the crows cheering the runners.
+I was even more impressed with the crowd cheering the runners.
 That's when I decided to start running.
 My goal was to run the next Berlin marathon.
 ![berlinmarathon2025.jpeg](assets/images/berlinmarathon2025.jpeg)
