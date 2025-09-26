@@ -39,6 +39,7 @@ I will document progress, or lack thereof, and share my learnings along the way.
 
 
 ## Journal
+- [Terms Every Runner Should Know - 2025-09-26](?15_RunningTerms)
 - [Berlin Marathon 2025 - 2025/09/21](?14_BerlinMarathon2025)
 - [First 14K Run of my Life - 2025/09/17](?13_first14k)
 - [Kreuzberger Viertelmarathon - 2025/09/07](?12_kreuzbergerRace)
