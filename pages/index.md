@@ -28,7 +28,7 @@ I will document progress, or lack thereof, and share my learnings along the way.
 - [ ] Sprint Triathlon
     > Sprint Triathlon includes 750 meters swimming, 20 km cycling, and 5 km running
 - [ ] Sub 60min 10k
-- [ ] Half Marathon
+- [x] Half Marathon (18/10/2025)
 - [ ] Olympic Triathlon
     > Olympic Triathlon includes 1.5 km swimming, 40 km cycling, and 10 km running
 - [ ] Marathon
@@ -39,6 +39,7 @@ I will document progress, or lack thereof, and share my learnings along the way.
 
 
 ## Journal
+- [First Half Marathon - 2025/10/18](?17_firstHalfMarathon)
 - [Great 10K Berlin - 2025/10/12](?16_10kBeforeHM)
 - [Terms Every Runner Should Know - 2025-09-26](?15_RunningTerms)
 - [Berlin Marathon 2025 - 2025/09/21](?14_BerlinMarathon2025)
