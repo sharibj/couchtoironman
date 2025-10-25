@@ -24,7 +24,8 @@ I will document progress, or lack thereof, and share my learnings along the way.
 - [x] 5k (16/02/2025)
 - [x] 10k (11/05/2025)
 - [ ] Sub 30min 5k
-- [ ] Learn to Swim
+- [x] Learn to Swim (14/07/2025)
+- [ ] Learn to Swim front crawl
 - [ ] Sprint Triathlon
     > Sprint Triathlon includes 750 meters swimming, 20 km cycling, and 5 km running
 - [ ] Sub 60min 10k
@@ -39,6 +40,7 @@ I will document progress, or lack thereof, and share my learnings along the way.
 
 
 ## Journal
+- [Swimming Coach - 2025/10/24](?18_swimmingClass)
 - [First Half Marathon - 2025/10/18](?17_firstHalfMarathon)
 - [Great 10K Berlin - 2025/10/12](?16_10kBeforeHM)
 - [Terms Every Runner Should Know - 2025-09-26](?15_RunningTerms)
