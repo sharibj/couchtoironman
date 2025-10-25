@@ -20,6 +20,7 @@ But I don't think I can call myself a swimmer yet.
 
 I decided to get a swimming coach to help me improve my technique.
 Today was my first session with her.
+(Actually, my second session, but the first one was two months ago and just a trial, so I don't count it.)
 She's a triathlete from Ukraine who has been living in Germany for a while and does not speak much English.
 Communication is a bit of a challenge, but we manage.
 
