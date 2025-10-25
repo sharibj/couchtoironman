@@ -4,16 +4,16 @@
 ## Motivation
 Late last year, I finally started working on my fitness again and decided that I would learn to manage my injuries and get back to running.
 
-Beginning of this year, I registered for a 10k. At the time of registration, I couldn't even run a 5k.
+I registered for a 10k at the beginning of this year, even though I couldn't run a 5k at the time.
 I had started running, though. I was using a simple app to suggest intervals and track progress.
-I started in late december with 6 mins of total running (6 x 1min running and 1 min walking).
-At the time of 10k registration, I had reached 16 mins of running (2min intervals) and a distance of 2kms.
+I started in late December with 6 minutes of total running (6 x 1 minute running and 1 minute walking).
+At the time of 10k registration, I had completed 16 minutes of running (2-minute intervals) and a distance of 2 km.
 
-For pain management I was focusing on stretching and using a thickly cushioned shoe with knee and ankle support.
+For pain management, I focused on stretching and using a thickly cushioned shoe with knee and ankle support.
 
 I registered for "S25 Berlin" because it held a sentimental value for me. This was my very first 10k in 2022.
-I remember it being very hard, but I completed it without walking and with a time of 1:05:09.
-The race ended in the Olympic stadium.
+I remember it being very hard, but I completed it without walking and at 1:05:09.
+The race ended in the Olympic Stadium.
 I could never forget the last few hundred meters when you leave the road and go through a tunnel to suddenly emerge inside a stadium full of people cheering.
 It felt amazing and took away all the pain.
 
@@ -22,16 +22,16 @@ Sadly, I couldn't.
 
 ## Preparation
 I had resolved to run thrice a week and gradually increase my distance.
-However, after a few weeks, I found it difficult to do 3 runs. Something or the other would come up and there will be weeks when I had not run at all.
-Even when I ran, my pace was very slow. I ran a 5k in mid-February, and although I completed it, I couldn't run continuously and was among the very last people to finish the race.
+However, after a few weeks, I found it difficult to do three runs. Something or the other would come up, and there would be weeks when I had not run at all.
+Even when I ran, my pace was very slow. I ran a 5k in mid-February, and although I completed it, I couldn't run continuously and was among the last people to finish the race.
 
-Still, by April, I was able to run continuously for up to 17 minutes with an 8:30 average pace.
+Still, by April, I was able to run continuously for up to 17 minutes at an average pace of 8:30.
 
 I had 2 weeks of vacation right before the race. I was backpacking in Spain.
-I did 2 runs in the first 3 days of vacation, the longest one being 6k continuous.
-It was very hard, and I recall muttering encouraging words to myself after the 5km mark just to keep going.
+I did two runs in the first 3 days of vacation, the longest being 6k continuous.
+It was very hard, and I recall muttering encouraging words to myself after the 5km mark to keep going.
 It took me almost an hour to finish the 6k, but I was happy to have done it.
-I was certain that if I kept increasing my distance, I would be able to do the 10k on race day.
+I was sure that if I kept increasing my distance, I could do the 10k on race day.
 But the very next day, I fell off a mountain bike and got injured.
 I got a nasty road rash on my right hip, and a big area around it fell numb.
 Forget running, I couldn't even walk properly for a few days.
@@ -43,7 +43,7 @@ It was a day before the Prague marathon. A fun-run sort of event with only 4kms.
 But when I started running, my feet felt heavy. I later learned about lactate build-up, but I didn't know about it then.
 I was too slow for everyone else, and being left behind took a toll on my morale.
 The trousers were rubbing against my road rash, and I was in pain. I had to hold my pants away from my hip to avoid the friction.
-At one point I got confused and took a wrong turn, cutting the distance short by 1km.
+At one point, I got confused and took a wrong turn, cutting the distance short by 1km.
 It felt like a failure, and I was disappointed.
 
 In the next few days, I actually learned a little about pacing, different kinds of runs, and lactate build-up as my absolute failure in Prague made me curious.
@@ -62,8 +62,8 @@ My goal was now to simply finish the 10k.
 I put cotton pads on my road rash to avoid friction and bandaged it so it doesn't move around.
 I wore light clothes and used my cushioned shoes.
 
-My pacing strategy was to stay within Heart Rate Zone 3 for the first 3-4km, go up to Zone 4 till the 7km mark, and push it to Zone 5 for the next 2km before dialing it down for the last km.
-I tried to memorize the route and went through the strategy in my head a few times.
+My pacing strategy was to stay within Heart Rate Zone 3 for the first 3-4km, go up to Zone 4 till the 7km mark, and push it to Zone 5 for the next 2km before dialling it down for the last km.
+I tried to memorise the route and went through the strategy in my head a few times.
 
 At the venue, I did a warm-up run and some stretches. I also did a light jog for 3 mins, but even that felt tiring and made me nervous.
 
@@ -74,7 +74,7 @@ As the race started, I focused on my breathing and tried to keep my heart rate i
 It didn't work. I was already in Zone 4. If I tried to bring it down further, I would almost be walking.
 But I felt comfortable, so I kept going. Whenever I noticed my heart rate going up, I would slow down a little.
 I found a girl running at a similar pace and decided to stick with her. She was doing the half-marathon, but our pace matched.
-I think my pace was somewhere between 8:00 to 8:30.
+I think my pace was somewhere between 8:00 and 8:30.
 I felt a little low around the 3km mark, but I kept going.
 My family was there to cheer for me, so that helped.
 
