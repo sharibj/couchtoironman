@@ -41,6 +41,8 @@ I will document progress, or lack thereof, and share my learnings along the way.
 
 
 ## Journal
+- [Marathon Running Plan - 2026/06/05](20_mrunningplan)
+- [Fell off the wagon 2 - 2026/04/27](19_offthewagon2)
 - [Swimming Coach - 2025/10/24](?18_swimmingClass)
 - [First Half Marathon - 2025/10/18](?17_firstHalfMarathon)
 - [Great 10K Berlin - 2025/10/12](?16_10kBeforeHM)
