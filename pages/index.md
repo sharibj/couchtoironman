@@ -17,8 +17,9 @@ This is my journey.
 I will document progress, or lack thereof, and share my learnings along the way.
 
 ## Upcoming Events
-- **10K 12/10/25** (Great 10K 2025)
-- **21K 18/10/25** (Sportscheck Half Marathon)
+- **10K 01/08/26** (City Night Run)
+- **Half Marathon 23/08/26** (die Generalprobe)
+- **Marathon 27/09/26** (BMW Berlin Marathon)
 
 ## Milestones
 - [x] 5k (16/02/2025)
