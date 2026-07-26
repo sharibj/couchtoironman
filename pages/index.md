@@ -41,6 +41,7 @@ I will document progress, or lack thereof, and share my learnings along the way.
 
 
 ## Journal
+- [Swimming Classes - 2026-07-26](21_swimmingClass)
 - [Marathon Running Plan - 2026/06/05](20_mrunningplan)
 - [Fell off the wagon 2 - 2026/04/27](19_offthewagon2)
 - [Swimming Coach - 2025/10/24](?18_swimmingClass)
