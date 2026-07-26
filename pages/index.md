@@ -39,6 +39,7 @@ I will document progress, or lack thereof, and share my learnings along the way.
     > Half Ironman includes 1.9 km swimming, 90 km cycling, and 21.1 km running
 - [ ] Ironman
     > Ironman includes 3.8 km swimming, 180 km cycling, and 42.2 km running
+- [ ] Qualify for Boston Marathon (sub 3hour matathon)
 
 
 ## Journal
