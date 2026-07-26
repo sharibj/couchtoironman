@@ -1,5 +1,7 @@
 # I joined a swimming class
 
+> 2026/07/26
+
 I finally joined a swimming class, and honestly the hardest part was just figuring out how to sign up. The process wasn't obvious and it took me a while. I ended up going through one of the official German websites and landing an intensive course: two weeks, five days a week, ten sessions of 45 minutes each.
 
 The travel was rough. One hour each way for a 45-minute class, so every session cost me about three hours. More than that really, because I was usually wiped afterward and couldn't focus on anything for the next few hours.

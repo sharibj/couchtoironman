@@ -1,5 +1,7 @@
 # Marathon Running Plan
 
+> 2026/06/05
+
 I like the Runna app a lot but it's too expensive.
 The free version gives a high level overview of the preparation runs needed for a particular race but doesn't give the exact details of each run, nor does it readjust the plan based on actual runs.
 Even for the functionality provided, 20 euros a month for Runna feels a bit excessive.

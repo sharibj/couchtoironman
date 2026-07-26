@@ -1,5 +1,7 @@
 # Fell off the wagon (AGAIN!)
 
+> 2026/04/27
+
 Completing the Half Marathon was a big achievement for me. Maybe that's why I thought I "deserve" a break.
 This notion of "deserving a break" is a scam. You deserve a celebration. A pat on the back. Recovery. Never a break.
 I should've kept the momentum going. Instead, I stopped. I had a year to prepare for the marathon but 6 months went by in a blink. Instead of progressing I regressed.
